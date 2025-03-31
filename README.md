@@ -4,12 +4,14 @@
 
 ✨ Welcome to my **C programming journey**, where I explore the wild lands of **pointers, loops, and memory leaks**—all while keeping things *cute and chaotic*! 💕  
 
-![Excited Cat](https://media1.tenor.com/m/KZOTuRUS0DgAAAAC/cat-excited.gif)  
+![Bazinga](https://media1.tenor.com/m/X9ruUAImNg8AAAAd/you-stupid-bazinger-meme-sheldon-computer.gif)  
 
 ## 💡 What’s This?  
 🌸 **Me vs. C** → A battle of wits, logic, and *mysterious segfaults* 🐞  
 🎀 **Debugging with style** → Because every error deserves a pink `printf()` 💅  
 🧠 **Sheldon Cooper Approved™** → *"This is my spot. And by 'spot', I mean C programming."*  
+
+![Excited Cat](https://media1.tenor.com/m/KZOTuRUS0DgAAAAC/cat-excited.gif)  
 
 ---
 
@@ -17,6 +19,8 @@
 💖 **Code with pink energy** (because why not?)  
 🐰 **So cute, yet so dangerous** (*just like uninitialized pointers*)  
 💡 **Smart but sparkly** ✨  
+
+![Sparkles](https://media1.tenor.com/m/Bzo8Kc3Sqx0AAAAC/fabulou-sparkles.gif) 
 
 ---
 
