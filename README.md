@@ -6,6 +6,8 @@
 
 <img src="https://media3.giphy.com/media/GFLIjIaiAL0kw/giphy.gif" width="250"/>  
 
+---
+
 ## 💖 What’s This?  
 🌷 **Me vs. C** → A battle of wits, logic, and *mysterious segfaults* 🐞  
 🎀 **Debugging with style** → Because every error deserves a pink `printf()` 💅  
